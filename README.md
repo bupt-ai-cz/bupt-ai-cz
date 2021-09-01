@@ -1,16 +1,16 @@
-### Hi there 👋
+# CVSM Group - email: czhu@bupt.edu.cn 
 
-<!--
-**bupt-ai-cz/bupt-ai-cz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[*Homepage*](https://teacher.bupt.edu.cn/zhuchuang/en/index.htm)|[*Google Scholar*](https://scholar.google.com/citations?hl=zh-CN&user=FuCo7AkAAAAJ&view_op=list_works)|[*Researchgate*](https://www.researchgate.net/profile/Chuang_Zhu)
 
-Here are some ideas to get you started:
+## ⚡News
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/).*
+
+![LLVIP](https://github.com/bupt-ai-cz/LLVIP/blob/main/imgs/figure1-LR.png)
+
+## ⚡News
+
+*We released the code and dataset of [Meta Self-Learning](https://bupt-ai-cz.github.io/Meta-SelfLearning/).*
+
+![Meta Self-Learning](https://github.com/bupt-ai-cz/Meta-SelfLearning/blob/main/imgs/dataset1.png)
+
