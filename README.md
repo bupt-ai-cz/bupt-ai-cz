@@ -14,12 +14,13 @@
 - ***We released the code of [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL), and the paper was accepted by IEEE Transactions on Medical Imaging (TMI).***
 
 <div align="center">
-  <img src="imgs/HSA-NRL.png" alt="HSA-NRL" height="350px" align=center />
+  <img src="imgs/HSA-NRL.png" alt="HSA-NRL" height="350px" align=center />![dataset1](https://user-images.githubusercontent.com/35358984/144741009-e60b7b08-efb1-4bda-b98f-19fed8479365.png)
+
 </div>
-<br>![PGDF](https://user-images.githubusercontent.com/35358984/144740916-f99c75ba-a7ff-4fd7-b3be-ebcbd1362f20.png)
+<br>
 
+- ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***![PGDF](https://user-images.githubusercontent.com/35358984/144740982-5f3b5f00-4956-44a7-ab96-4e1c4bdd73cc.png)
 
-- ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" height="350px" align=center />
@@ -37,7 +38,7 @@
 - ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/), which was accepted by 2021 ICCV workshop.***
 
 <div align="center">
-  <img src="imgs/LLVIP.png" alt="LLVIP" height="350px" align=center />
+  <img src="imgs/LLVIP.png" alt="LLVIP" height="300px" align=center />
 </div>
 <br>
 
