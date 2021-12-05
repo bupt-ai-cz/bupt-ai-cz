@@ -26,5 +26,5 @@
 
 ## ⭐Ours Repositories
 
-| [PGDF](https://github.com/bupt-ai-cz/PGDF) | [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL) | [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID) | [LLVIP](https://github.com/bupt-ai-cz/LLVIP) | [Meta Self-Learning](https://github.com/bupt-ai-cz/Meta-SelfLearning) | [IAST](https://github.com/bupt-ai-cz/IAST-ECCV2020) | [CAC-UNet](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019 |
+| [PGDF](https://github.com/bupt-ai-cz/PGDF) | [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL) | [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID) | [LLVIP](https://github.com/bupt-ai-cz/LLVIP) | [Meta Self-Learning](https://github.com/bupt-ai-cz/Meta-SelfLearning) | [IAST](https://github.com/bupt-ai-cz/IAST-ECCV2020) | [CAC-UNet](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019) |
 | ------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------- | :------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: |
