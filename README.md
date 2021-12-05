@@ -7,28 +7,28 @@
 - ***We released the code of [PGDF](https://github.com/bupt-ai-cz/PGDF), which is the new SOTA of image classification with noisy labels.***
 
 <div align="center">
-  <img src="imgs/PGDF.png" alt="PGDF" height="250px" align=center />
+  <img src="imgs/PGDF.png" alt="PGDF" style="zoom: 60%;" align=center />
 </div>
 <br>
 
 - ***We released the code of [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL), and the paper was accepted by IEEE Transactions on Medical Imaging (TMI).***
 
 <div align="center">
-  <img src="imgs/HSA-NRL.png" alt="HSA-NRL" height="300px" align=center />
+  <img src="imgs/HSA-NRL.png" alt="HSA-NRL" style="zoom: 45%;" align=center />
 </div>
 <br>
 
 - ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" height="300px" align=center />
+  <img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" style="zoom: 60%;" align=center />
 </div>
 <br>
 
 - ***We released the dataset of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), which can be used for predicting axillary lymph node metastasis in early breast cancer and the paper was accepted by Frontiers in Oncology.***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bupt-ai-cz/BALNMP/main/imgs/N0.png" alt="BALNMP" height="300px" align=center />
+  <img src="https://raw.githubusercontent.com/bupt-ai-cz/BALNMP/main/imgs/N0.png" alt="BALNMP" style="zoom: 50%;" align=center />
 </div>
 <br>
 
@@ -36,14 +36,14 @@
 - ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/), which was accepted by 2021 ICCV workshop.***
 
 <div align="center">
-  <img src="imgs/LLVIP.png" alt="LLVIP" height="300px" align=center />
+  <img src="imgs/LLVIP.png" alt="LLVIP" style="zoom: 80%;" align=center />
 </div>
 <br>
 
 - ***We released the code and dataset of [Meta Self-Learning](https://bupt-ai-cz.github.io/Meta-SelfLearning/), which was accepted by 2021 ICCV workshop.***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bupt-ai-cz/Meta-SelfLearning/main/imgs/dataset1.png" alt="Meta Self-Learning" height="250px" align=center />
+  <img src="https://raw.githubusercontent.com/bupt-ai-cz/Meta-SelfLearning/main/imgs/dataset1.png" alt="Meta Self-Learning" style="zoom: 80%;" align=center />
 </div>
 <br>
 
