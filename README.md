@@ -10,11 +10,11 @@
 
 - ***We released the code of [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL), and the paper was accepted by IEEE Transactions on Medical Imaging (TMI).***
 
-![HSA-NRL](imgs/HSA-NRL.png)
+<img src="imgs/HSA-NRL.png" alt="HSA-NRL" style="zoom: 60%;" />
 
 - ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
 
-![HHCL-ReID](https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg)
+<img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" style="zoom:75%;" />
 
 - ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/).***
 
