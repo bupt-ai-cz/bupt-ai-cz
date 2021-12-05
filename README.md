@@ -33,14 +33,14 @@
 <br>
 
 
-- ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/).***
+- ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/), which was accepted by 2021 ICCV workshop.***
 
 <div align="center">
   <img src="imgs/LLVIP.png" alt="LLVIP" height="300px" align=center />
 </div>
 <br>
 
-- ***We released the code and dataset of [Meta Self-Learning](https://bupt-ai-cz.github.io/Meta-SelfLearning/).***
+- ***We released the code and dataset of [Meta Self-Learning](https://bupt-ai-cz.github.io/Meta-SelfLearning/), which was accepted by 2021 ICCV workshop.***
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bupt-ai-cz/Meta-SelfLearning/main/imgs/dataset1.png" alt="Meta Self-Learning" height="250px" align=center />
