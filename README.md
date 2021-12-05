@@ -6,24 +6,9 @@
 
 - ***We released the code of [PGDF](https://github.com/bupt-ai-cz/PGDF), which is the new SOTA of image classification with noisy labels.***
 
-<div align="center">
-  <img src="imgs/PGDF.png" alt="PGDF" align=center />
-</div>
-<br>
-
 - ***We released the code of [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL), and the paper was accepted by IEEE Transactions on Medical Imaging (TMI).***
 
-<div align="center">
-  <img src="imgs/HSA-NRL.png" alt="HSA-NRL" height="350px" align=center />
-</div>
-<br>
-
 - ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" height="350px" align=center />
-</div>
-<br>
 
 - ***We released the dataset of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), which can be used for predicting axillary lymph node metastasis in early breast cancer and the paper was accepted by Frontiers in Oncology.***
 
