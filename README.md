@@ -17,8 +17,6 @@
 
 - ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
 
-<!-- <img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" width="600px" align=center /> -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/bupt-ai-cz/HHCL-ReID/main/img/framework_HCCL.jpg" alt="HHCL-ReID" height="300px" align=center />
 </div>
@@ -26,7 +24,10 @@
 
 - ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/).***
 
-![LLVIP](imgs/LLVIP.png)
+<div align="center">
+  <img src="imgs/LLVIP.png" alt="LLVIP" height="300px" align=center />
+</div>
+<br>
 
 - ***We released the code and dataset of [Meta Self-Learning](https://bupt-ai-cz.github.io/Meta-SelfLearning/).***
 
