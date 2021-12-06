@@ -2,6 +2,8 @@
 
 [***Homepage***](https://teacher.bupt.edu.cn/zhuchuang/en/index.htm) | [***Google Scholar***](https://scholar.google.com/citations?hl=zh-CN&user=FuCo7AkAAAAJ&view_op=list_works) | [***Researchgate***](https://www.researchgate.net/profile/Chuang_Zhu)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bupt-ai-cz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡News
 
 - ***We released the code of [PGDF](https://github.com/bupt-ai-cz/PGDF), which is the new SOTA of image classification with noisy labels.***
