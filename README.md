@@ -15,7 +15,7 @@
 - ***We released the code of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), and the paper was accepted by Frontiers in Oncology. The dataset [BCNB](https://bupt-ai-cz.github.io/BCNB/) used in paper is released.***
 
 <div align="center">
-  <img src="./imgs/BCNB-logo.png" alt="BCNB" height="200px" align=center />
+  <img src="./imgs/BCNB-logo.png" alt="BCNB" height="350px" align=center />
 </div>
 <br>
 
