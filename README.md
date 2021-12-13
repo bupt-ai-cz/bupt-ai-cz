@@ -16,8 +16,7 @@
 
 <div align="center">
   <img src="./imgs/BCNB-logo.png" alt="BCNB" height="75%" width="75%" align=center />
-</div>![BCNB-logo](https://user-images.githubusercontent.com/35358984/145783593-a578bbbf-c41c-456f-925c-bb5fea1b2417.png)
-
+</div>
 <br>
 
 - ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/), which was accepted by 2021 ICCV workshop.***
