@@ -12,10 +12,10 @@
 
 - ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
 
-- ***We released the dataset of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), which can be used for predicting axillary lymph node metastasis in early breast cancer and the paper was accepted by Frontiers in Oncology.***
+- ***We released the code of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), and the paper was accepted by Frontiers in Oncology. The dataset [BCNB](https://bupt-ai-cz.github.io/BCNB/) used in paper is released.***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bupt-ai-cz/BALNMP/main/imgs/N0.png" alt="BALNMP" height="350px" align=center />
+  <img src="./imgs/BCNB-logo.png" alt="BCNB" height="200px" align=center />
 </div>
 <br>
 
