@@ -1,6 +1,7 @@
 # CVSM Group ![visitors](https://visitor-badge.glitch.me/badge?page_id=bupt-ai-cz/bupt-ai-cz)
 
-<table><tr><td bgcolor=yellow>[***Homepage***](https://teacher.bupt.edu.cn/zhuchuang/en/index.htm) | [***Google Scholar***](https://scholar.google.com/citations?hl=zh-CN&user=FuCo7AkAAAAJ&view_op=list_works) | [***Researchgate***](https://www.researchgate.net/profile/Chuang_Zhu)</td></tr></table>
+[***Homepage***](https://teacher.bupt.edu.cn/zhuchuang/en/index.htm) | [***Google Scholar***](https://scholar.google.com/citations?hl=zh-CN&user=FuCo7AkAAAAJ&view_op=list_works) | [***Researchgate***](https://www.researchgate.net/profile/Chuang_Zhu)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bupt-ai-cz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
