@@ -7,7 +7,7 @@
 
 ## ⚡News
 
-- ***We released the code of [PyramidPix2pix](https://github.com/bupt-ai-cz/BCI), and the paper was accepted by 2022 CVPR workshop. The dataset [BCI](https://bupt-ai-cz.github.io/BCI/) used in paper is released.***
+- ***We released the code of [PyramidPix2pix](https://github.com/bupt-ai-cz/BCI), and the paper was accepted by 2022 CVPR workshop. The dataset [BCI](https://bupt-ai-cz.github.io/BCI/) used in the paper is released.***
 <div align="center">
   <a href="https://bupt-ai-cz.github.io/BCI/">
     <img src="https://github.com/bupt-ai-cz/bupt-ai-cz.github.io/blob/main/BCI/imgs/datasetpreview5.png" alt="BCI" height="75%" width="75%" align=center />
