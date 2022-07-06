@@ -21,7 +21,7 @@
 
 - ***We released the code of [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID), which is the new SOTA of unsupervised person re-identification.***
 
-- ***We released the code of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), and the paper was accepted by Frontiers in Oncology. The dataset [BCNB](https://bupt-ai-cz.github.io/BCNB/) used in paper is released.***
+- ***We released the code of [BALNMP](https://github.com/bupt-ai-cz/BALNMP), and the paper was accepted by Frontiers in Oncology.***
 
 <div align="center">
   <a href="https://bupt-ai-cz.github.io/BCNB/">
