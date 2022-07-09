@@ -30,15 +30,6 @@
 </div>
 <br>
 
-- ***We released the dataset of [LLVIP](https://bupt-ai-cz.github.io/LLVIP/), which was accepted by 2021 ICCV workshop.***
-
-<div align="center">
-  <a href="https://bupt-ai-cz.github.io/LLVIP/">
-    <img src="imgs/LLVIP.png" alt="LLVIP" height="75%" width="75%" align=center />
-  </a>
-</div>
-<br>
-
 ## ⭐Ours Repositories
 
 [BCI](https://github.com/bupt-ai-cz/BCI) | [PGDF](https://github.com/bupt-ai-cz/PGDF) | [HSA-NRL](https://github.com/bupt-ai-cz/HSA-NRL) | [HHCL-ReID](https://github.com/bupt-ai-cz/HHCL-ReID) | [BALNMP](https://github.com/bupt-ai-cz/BALNMP) | [LLVIP](https://github.com/bupt-ai-cz/LLVIP) | [Meta Self-Learning](https://github.com/bupt-ai-cz/Meta-SelfLearning) | [IAST](https://github.com/bupt-ai-cz/IAST-ECCV2020) | [CAC-UNet](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019) |
