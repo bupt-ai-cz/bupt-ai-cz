@@ -8,12 +8,6 @@
 ## ⚡News
 
 - ***We released the code of [PyramidPix2pix](https://github.com/bupt-ai-cz/BCI), and the paper was accepted by 2022 CVPR workshop.***
-<div align="center">
-  <a href="https://bupt-ai-cz.github.io/BCI/">
-    <img src="https://github.com/bupt-ai-cz/bupt-ai-cz.github.io/blob/main/BCI/imgs/datasetpreview5.png" alt="BCI" height="75%" width="75%" align=center />
-  </a>
-</div>
-<br>
 
 - ***We released the code of [PGDF](https://github.com/bupt-ai-cz/PGDF), which is the new SOTA of image classification with noisy labels.***
 
