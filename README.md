@@ -6,6 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bupt-ai-cz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡News
+- ***We released the code of [ProML](https://github.com/bupt-ai-cz/ProML), and the paper was accepted by IJCAI 2023.***
 
 - ***We released the code of [PyramidPix2pix](https://github.com/bupt-ai-cz/BCI), and the paper was accepted by 2022 CVPR workshop.***
 
